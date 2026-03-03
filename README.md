@@ -8,7 +8,7 @@ Shivansh's GitHub</a>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Free%20Yet%20Busy;Majorly%20Sleepy;Curious%20About%20new%20things;Can%20sing%20a%20bit%20%F0%9F%91%80&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Free%20Yet%20Busy;Majorly%20Sleepy;Curious%20About%20new%20things;Still%20Debugging%20Life;Can%20sing%20a%20bit%20%F0%9F%91%80&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ Shivansh's GitHub</a>
       <img height="200" alt="Avatar photo" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo ">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Shivansh+Chaturvedi;Welcome+to+My+GitHub+Profile;Chalant+and+Curious+by+nature;DO+what+do+best;Hardworking+and+procrastinator;Loves+To+listen+something+good" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Shivansh+Chaturvedi;Welcome+to+My+GitHub+Profile;Chalant+and+Curious+by+nature;DO+what+I+do+best;Hardworking+and+procrastinator;Loves+To+listen+something+good" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -162,6 +162,9 @@ Shivansh's GitHub</a>
 
 ---
 
+<p align = "right">
+	<img src = "https://komarev.com/ghpvc/?username=shivanshh-oo&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
 
   <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   
@@ -170,17 +173,43 @@ Shivansh's GitHub</a>
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/jhvt5ic8f5o1ekgj9vh91m4ey?si=yu9p6avcQziuBnYGQtEi-w)
 
 ---
+<h4 align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+</h4>
 
   <h2>
-I found this funny!!
+Jokes!?!
 
 </h2>
-<div align="center" width="50">
+<div align="center" width="75">
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 </div>
 
 <p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=shivanshh-oo&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
